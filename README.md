@@ -129,7 +129,7 @@ We are only interested in the heigt column, so we'll save this now as a list.
 
 
 ```python
-v
+height = df.height
 print (len(height))
 print (height)
 ```
@@ -154,7 +154,7 @@ In the cell below, Import matplotlib as we saw earlier and plot a histogram of t
 # Expected output below
 ```
 
-![](index_files/index_22_0.png)
+![](index_files/index_9_1.png)
 
 Do you spot anything unsual above , some outliers maybe ?
 
